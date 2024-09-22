@@ -181,7 +181,7 @@ sudo insmod callTraceTest.ko
 接下来，我们按照下面的步骤进行分析：
 1. 先进入`call_trace`
 2. 然后执行如下命令：
-   ```shell
+```shell
 export CROSS_COMPILE="/home/px/rk3588/prebuilts/gcc/linux-x86/aarch64/gcc-arm-10.3-2021.07-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-"
 
 RK3588_SOURCE/kernel/scripts/decode_stacktrace.sh RK3588_SOURCE/kernel/vmlinux ./ ./ < call_trace.log
