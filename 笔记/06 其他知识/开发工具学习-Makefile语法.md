@@ -1,15 +1,12 @@
 ---
 share: "true"
 ---
-
 # 1 Makefile概述
 
 > ......
-
 # 2 Makefile介绍
 
 你需要一个`makefile`去告诉`make`怎么做。大多数情况下，`makefile`告诉`make`如何去编译和链接程序。
-
 ## Makefile的语法规则
 
 来看看最简单的语法形式：
