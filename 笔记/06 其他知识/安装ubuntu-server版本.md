@@ -1,7 +1,6 @@
 ---
 share: "true"
 ---
-
 > ubuntu版本有：
 > + desktop
 > + server
