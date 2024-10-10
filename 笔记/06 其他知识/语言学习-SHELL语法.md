@@ -1,7 +1,6 @@
 ---
 share: "true"
 ---
-
 # shell 语法
 
 ## shell 概述
